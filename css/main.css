@@ -6,18 +6,40 @@
 	background-repeat: no-repeat;
 }
 .oferflex {
+	padding: 85px 75px 0 45px;
 	justify-content: space-between;
 }
 
-.rightofer
+/*.rightofer
 {
 	margin-top: 90px;
-	margin-left: 35px;
-}
+	
+}*/
 
 .title1 {
 	margin-top: 0;
+	margin-bottom: 65px;
 	font-size: 48px;
 	line-height: 55px;
 	color: #ffffff;
+}
+
+.lid {
+	padding: 0;
+	width: 290px;
+}
+
+.social {
+	padding-top: 35px;
+	width: 41px;
+	height: 211px;
+}
+
+.feild {
+	margin-bottom: 10px;
+	width: 100%;
+	height: 52px;
+	font-family: "Trebuchet MS Italic";
+	font-size: 18px;
+	font-style: italic;
 }
