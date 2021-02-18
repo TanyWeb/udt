@@ -1,0 +1,23 @@
+.mainoffer {
+	height: 735px;
+	background-color: #10222f;
+	background-image: url("../img/oferimg.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.oferflex {
+	justify-content: space-between;
+}
+
+.rightofer
+{
+	margin-top: 90px;
+	margin-left: 35px;
+}
+
+.title1 {
+	margin-top: 0;
+	font-size: 48px;
+	line-height: 55px;
+	color: #ffffff;
+}
