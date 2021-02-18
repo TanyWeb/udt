@@ -10,12 +10,6 @@
 	justify-content: space-between;
 }
 
-/*.rightofer
-{
-	margin-top: 90px;
-	
-}*/
-
 .title1 {
 	margin-top: 0;
 	margin-bottom: 65px;
@@ -39,7 +33,7 @@
 	margin-bottom: 10px;
 	width: 80%;
 	height: 52px;
-	font-family: "Trebuchet MS Italic";
+	font-family: "TrebuchetMS";
 	font-size: 18px;
 	font-style: italic;
 	letter-spacing: 2px;
@@ -57,4 +51,46 @@
 	width: 100%;
 	background-image: linear-gradient(#ed9414, #f1d809);
   box-shadow: 0px 7px 16px #000000;
+}
+
+.title2 {
+	margin-top: 40px;
+	margin-bottom: 65px;
+	font-size: 48px;
+	line-height: 50px;
+	font-weight: 400;
+	color: #000000;
+	text-align: center;
+}
+
+.title3 {
+	margin: 0;
+	padding: 0;
+	font-size: 36px;
+}
+
+.curs {
+	justify-content: space-between;
+}
+
+.cursitem {
+	padding: 245px 17px 25px 45px;
+	width: 392px;
+	background-image: url("../img/data.png");
+	background-position: center top;
+	background-repeat: no-repeat;
+	font-size: 24px;
+	line-height: 30px;
+}
+
+.sendcurs {
+	display: inline-block;
+	padding-top: 15px;
+	width: 290px;
+	height: 38px;
+	background-image: linear-gradient(#ed9414, #f1d809);
+	box-shadow: 15px 18px 8px -1px rgba(0, 0, 0, 0.17);
+	color: #272525;
+	font-size: 24px;
+	text-align: center;
 }

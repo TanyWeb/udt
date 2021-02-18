@@ -1,0 +1,18 @@
+.bluebarfootet{
+	height: 642px;
+	background-color: #10222f;
+	background-image: url("../img/footer.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.titlefooter {
+	padding-top: 50px;
+	margin-top: 0;
+	margin-bottom: 65px;
+	font-size: 48px;
+	line-height: 50px;
+	font-weight: 400;
+	color: #ffffff;
+	text-align: center;
+}
