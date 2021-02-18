@@ -10,6 +10,10 @@
 	justify-content: space-between;
 }
 
+.rightofer {
+	
+}
+
 .title1 {
 	margin-top: 0;
 	margin-bottom: 65px;
@@ -69,6 +73,10 @@
 	margin: 0;
 	padding: 0;
 	font-size: 36px;
+}
+
+.program {
+	margin-bottom: 60px;
 }
 
 .curs {
