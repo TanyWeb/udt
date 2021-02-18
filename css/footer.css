@@ -9,10 +9,51 @@
 .titlefooter {
 	padding-top: 50px;
 	margin-top: 0;
-	margin-bottom: 65px;
+	margin-bottom: 30px;
 	font-size: 48px;
 	line-height: 50px;
 	font-weight: 400;
 	color: #ffffff;
 	text-align: center;
 }
+
+.subscription {
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.subscriptionmail {
+	padding-left: 15px;
+	margin: 0;
+	width: 295px;
+	height: 49px;
+	border: none;
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+	font-style: italic;
+}
+
+.subscriptionsend{
+	margin-left: -5px;
+	width: 180px;
+	height: 52px;
+	background-image: linear-gradient(#ed9414, #f1d809);
+  box-shadow: 0px 7px 16px #000000;
+	border: none;
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+	font-style: italic;
+}
+
+.foternav {
+	padding: 0 80px;
+	justify-content: space-between;
+	font-size: 18px;
+	font-style: italic;
+	color: #ffffff;
+}
+
+.foternav li {
+	margin-bottom: 10px;
+}
+	

@@ -26,11 +26,9 @@
 }
 
 .mainmenu, .callback {
-    font-family: "Trebuchet MS Italic";
+		font-family: "Trebuchet MS";
     font-size: 18px;
     font-style: italic;
-    font-weight: 500;
-    letter-spacing: 2px;
 }
 
 .menuitem {
