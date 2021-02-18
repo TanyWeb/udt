@@ -37,9 +37,24 @@
 
 .feild {
 	margin-bottom: 10px;
-	width: 100%;
+	width: 80%;
 	height: 52px;
 	font-family: "Trebuchet MS Italic";
 	font-size: 18px;
 	font-style: italic;
+	letter-spacing: 2px;
+	border: none;
+}
+
+.personal {
+	padding-left: 15px;
+	width: 93%;
+	cursor: pointer;
+}
+
+.send {
+	margin: 0;
+	width: 100%;
+	background-image: linear-gradient(#ed9414, #f1d809);
+  box-shadow: 0px 7px 16px #000000;
 }
