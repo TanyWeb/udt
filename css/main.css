@@ -1,13 +1,23 @@
 .mainoffer {
 	height: 735px;
 	background-color: #10222f;
-	background-image: url("../img/oferimg.png");
+	background-image: url("../img/oferimg.png");	
 	background-position: center;
 	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.robot{
+	height: 100%;
+	background-image: url("../img/robot-big.png");	
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	
+	
 }
 .oferflex {
-	padding: 85px 75px 0 45px;
-	justify-content: space-between;
+	padding: 80px 75px 0 45px;
+	justify-content: space-between;	
 }
 
 .rightofer {
@@ -15,6 +25,7 @@
 }
 
 .title1 {
+	padding-left: 5px;
 	margin-top: 0;
 	margin-bottom: 65px;
 	font-size: 48px;
@@ -28,9 +39,13 @@
 }
 
 .social {
-	padding-top: 35px;
+	padding-top: 20px;
 	width: 41px;
 	height: 211px;
+}
+
+.social li {
+	margin-bottom: 10px;
 }
 
 .feild {
@@ -103,4 +118,20 @@
 	color: #272525;
 	font-size: 24px;
 	text-align: center;
+}
+
+.vkontakte {
+	content: url("../img/vk.png");	
+}
+
+.pinteres {
+	content: url("../img/pin.png");	
+}
+
+.mail {
+	content: url("../img/mail.png");	
+}
+
+.whatsapp {
+	content: url("../img/whatsapp.png");	
 }

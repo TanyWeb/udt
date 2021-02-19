@@ -1,9 +1,9 @@
 .bluebarfootet{
 	height: 642px;
-	background-color: #10222f;
-	background-image: url("../img/footer.png");
+	background-image: url("../img/oferimg.png");	
 	background-position: center;
 	background-repeat: no-repeat;
+	background-size: 100%;
 }
 
 .titlefooter {
